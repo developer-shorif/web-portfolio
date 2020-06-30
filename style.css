@@ -1,0 +1,20 @@
+body{
+    font-family: 'Bitter', serif;
+}
+h1{
+    font-size: 30px;
+    color: blue;
+    margin-left: 5%;
+}
+.highlight-color{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: left 2%;
+}
+.half-width img{
+    width: 100%;
+}
